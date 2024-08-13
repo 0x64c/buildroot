@@ -376,6 +376,7 @@ comment "Graphic libraries"
 	source "package/vulkan-headers/Config.in"
 	source "package/vulkan-loader/Config.in"
 	source "package/vulkan-tools/Config.in"
+	source "package/allegro/Config.in"
 
 comment "Other GUIs"
 	source "package/qt5/Config.in"
